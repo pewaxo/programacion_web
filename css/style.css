@@ -240,6 +240,7 @@
   .div_app_img{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
   }
 
   .div_app_img img{
